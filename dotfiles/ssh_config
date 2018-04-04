@@ -1,0 +1,4 @@
+Host caen
+        HostName login-course.engin.umich.edu
+        User wumuting
+        Compression yes
